@@ -183,13 +183,12 @@ html {
 }
 
 .section-outer {
-  max-width: 1200px;
   padding: 0 1.25rem;
   border-bottom: 1px solid #d8e3fe;
 }
 
 .section-inner {
-  max-width: 900px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 .section-inner--wide {
